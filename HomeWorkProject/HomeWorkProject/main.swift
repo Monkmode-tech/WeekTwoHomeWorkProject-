@@ -1,4 +1,7 @@
-//
+// Beginning iOS & Swift: Week 2 Homework Assignment
+print("Beginning iOS & Swift: Week 2 Homework Assignment")
+print("-----\n")
+
 //  XcodeDebuggingAssignments.swift
 //  IntroToXcode Homework
 //
@@ -152,3 +155,10 @@ task4()
 task5()
 task6()
 task7()
+
+
+
+print("Beginning iOS & Swift: Week 3 Homework Assignment")
+
+performAction()
+print("-----\n")
