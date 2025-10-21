@@ -28,6 +28,11 @@
 			path = HomeWorkProject;
 			sourceTree = "<group>";
 		};
+		124816BC2E9DE35300FD95A5 /* Week3HomeWorkAssignment */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Week3HomeWorkAssignment;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +49,7 @@
 		12340DD32E94BD64009723EC = {
 			isa = PBXGroup;
 			children = (
+				124816BC2E9DE35300FD95A5 /* Week3HomeWorkAssignment */,
 				12340DDE2E94BD64009723EC /* HomeWorkProject */,
 				12340DDD2E94BD64009723EC /* Products */,
 			);
@@ -74,6 +80,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				12340DDE2E94BD64009723EC /* HomeWorkProject */,
+				124816BC2E9DE35300FD95A5 /* Week3HomeWorkAssignment */,
 			);
 			name = HomeWorkProject;
 			packageProductDependencies = (
